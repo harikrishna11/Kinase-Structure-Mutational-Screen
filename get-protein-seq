@@ -1,0 +1,1 @@
+perl ncbi_search.pl -d protein -q "CDK8[Gene Name] AND Homo Sapiens[Primary Organism]" -o - -r fasta -m 1
